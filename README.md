@@ -4,7 +4,7 @@
 
 		<style>
 		body{
-			background: url('mebg.jpg') no-repeat center center fixed; 
+			background: url('me/mebg.jpg') no-repeat center center fixed; 
 			  -webkit-background-size: cover;
 			  -moz-background-size: cover;
 			  -o-background-size: cover;
@@ -62,7 +62,7 @@
 			
 
 			<a href="https://smalltownurbanhipster.wordpress.com/">
-				<img src="wordpress-128.png" />
+				<img src="me/wordpress-128.png" />
 			</a>
 
 		</div>
